@@ -6,10 +6,7 @@
 
 package CuentaNegativa;
 
-/**
- *
- * @author Pam Vengenz
- */
+
 public class Cuenta_1 {
     float saldo;
 
