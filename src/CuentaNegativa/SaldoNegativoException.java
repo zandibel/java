@@ -6,13 +6,10 @@
 
 package CuentaNegativa;
 
-/**
- *
- * @author Pam Vengenz
- */
+
 public class SaldoNegativoException extends Exception {
     
     public SaldoNegativoException(){
         super("saldo insuficiente");
-    }//constructor
+    }
 }
